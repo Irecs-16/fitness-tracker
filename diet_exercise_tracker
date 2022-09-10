@@ -90,16 +90,3 @@ if choice3 == "retrieve":
             k=open("person3_exer.txt","r+")
             print(k.read())
             k.close()
-
-        
-
-
-
-
-
-
-
-
-
-        
-        
